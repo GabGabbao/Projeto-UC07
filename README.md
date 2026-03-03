@@ -1,5 +1,7 @@
 # Projeto-UC07
-Atividades no Laboratório de Práticas UC07
+Curso: Desenvolvimento de Sistemas
+
+Laboratório de Práticas UC07
 
 Docente: Leandro Campos 
 
