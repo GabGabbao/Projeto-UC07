@@ -1,0 +1,19 @@
+##Gerador de Senhas Fortes (Java)## 
+Ferramenta simples para gerar senhas aleatóarias fortes. 
+
+- Funcionalidade 
+Geração de senhas aleatórias 
+Validação de força (maiúsculas, minúsculas, número, símbolo, tamanho)
+Utiliza SecureRandom para gerar senhas mais seguras 
+
+- Critérios para ser uma senha forte 
+Mínimo de 8 caracteres 
+Pelo menos 1 letra maiúscula 
+Pelo menos 1 letra minúscula 
+Pelo menos 1 número 
+Pelo menos 1 símbolo 
+
+Como rodar 
+1. Abra no VSCode 
+2. Compile: javac Atividade01.java 
+3. Execute: java Atividade01
